@@ -228,7 +228,7 @@ except Exception as e:
 ║  5. Replace 'your_google_api_key_here' with your actual key ║
 ║                                                              ║
 ║  Example:                                                    ║
-║  GOOGLE_API_KEY=AIzaSyC7x8mY9kV2nE4fG6hJ8iK9lM3nO5pQ7rS    ║
+║  GOOGLE_API_KEY=ABCD    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
         """
